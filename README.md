@@ -30,10 +30,3 @@ The image showcases an Excel dashboard created by Nayab Fatima for the year 2024
 
 - **PER MONTH BY REGION:**
   - A line graph visualizes the monthly performance by region, including Argentina, Brazil, Chicago, Chile, Columbia, Los Angeles, and Peru.
-
-### Design and Layout
-- The dashboard has a clean and organized layout, using a combination of bar charts, line graphs, pie charts, and doughnut charts.
-- It features a professional and monochromatic color scheme, with emphasis on clarity and easy interpretation of data.
-
-### Purpose
-The dashboard aims to provide a comprehensive overview of sales, profit, and customer metrics, enabling users to quickly analyze and understand the performance across different months and regions.
